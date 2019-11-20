@@ -1,0 +1,16 @@
+diff --cc log.txt
+index 0000000,0000000..de9d551
+new file mode 100644
+--- /dev/null
++++ b/log.txt
+@@@ -1,0 -1,0 +1,10 @@@
+++commit 7140926124f9586ababd95d337ab227ceeb2b3eb (HEAD -> master)
+++Author: Nada ElFadili <EFNada98@gmail.com>
+++Date:   Wed Nov 20 14:35:43 2019 +0100
+++
+++    lelele
+++
+++commit 018be00562153027a0e4c44bdd69f4e7f65ff559
+++Author: Nada ElFadili <EFNada98@gmail.com>
+++Date:   Wed Nov 20 14:33:34 2019 +0100
+++
